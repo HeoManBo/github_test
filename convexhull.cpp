@@ -40,7 +40,7 @@ int cmp2(point& a, point& b) {
 }
 
 int fun(){
-    cout << "test!!" << "\n";
+    cout << "ASdad" << "\n";
 }
 
 int main(void) {
