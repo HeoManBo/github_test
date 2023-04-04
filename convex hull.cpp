@@ -39,6 +39,10 @@ int cmp2(point& a, point& b) {
 	return c < 0;
 }
 
+int fun(){
+    cout << "test!!" << "\n";
+}
+
 int main(void) {
 	cin >> T;
 	while (T--) {
